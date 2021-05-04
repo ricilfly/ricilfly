@@ -1,0 +1,20 @@
+"use strict";
+
+var firstNameId = 'first-name';
+var lastNameId = 'last-name';
+var addressId = 'address';
+var citiesId = 'cities';
+var hobbiesId = 'hobbies';
+var avatarWrapperId = 'avatar-wrapper';
+var avatarId = 'avatar';
+var firstNameEl = document.getElementById(firstNameId);
+var lastNameEl = document.getElementById(lastNameId);
+var addressEl = document.getElementById(addressId);
+var citiesEl = document.getElementById(citiesId);
+var hobbiesEl = document.getElementById(hobbiesId);
+var avatarWrapperEl = document.getElementById(avatarWrapperId);
+var avatarEl = document.getElementById(avatarId); // window.alert(firstNameEl.value);
+// window.alert(lastNameEl.value);
+// window.alert(addressEl.value);
+// window.alert(citiesEl.value);
+// window.alert(hobbiesEl.value);
